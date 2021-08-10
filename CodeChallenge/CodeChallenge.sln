@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge.Console", "CodeChallenge.Console\CodeChallenge.Console.csproj", "{6FE43A05-7474-4EDE-AAE7-6830E66F70CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge.Library", "CodeChallenge.Library\CodeChallenge.Library.csproj", "{ED89ABBF-1742-4694-ACE7-22CE8DC724AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE43A05-7474-4EDE-AAE7-6830E66F70CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE43A05-7474-4EDE-AAE7-6830E66F70CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE43A05-7474-4EDE-AAE7-6830E66F70CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE43A05-7474-4EDE-AAE7-6830E66F70CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED89ABBF-1742-4694-ACE7-22CE8DC724AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED89ABBF-1742-4694-ACE7-22CE8DC724AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED89ABBF-1742-4694-ACE7-22CE8DC724AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED89ABBF-1742-4694-ACE7-22CE8DC724AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EAAC98-776B-41F5-809A-D169439B79B5}
+	EndGlobalSection
+EndGlobal
